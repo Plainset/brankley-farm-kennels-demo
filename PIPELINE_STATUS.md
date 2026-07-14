@@ -3,7 +3,7 @@
 Operational handoff only. `LEADS.md` and `OUTREACH_LOG.md` remain the source of truth.
 
 - Current phase: Build complete, QA passed, committed locally. Not deployed (build phase only, per instructions — no push/deploy this phase).
-- Last trusted commit: see `git log -1` in this repo (initial commit, made at end of this build session)
+- Last trusted commit: 1d24bc8 "Build Brankley Farm Kennels & Cattery demo site (3 pages)" (initial commit)
 - Known untrusted state: none — all pages QA'd (contrast, upscale, text-overflow, broken images, manual checks) and passing
 - Next exact action: Review phase — create public GitHub repo `brankley-farm-kennels-demo`, push, enable Pages, confirm live URL loads, then draft outreach email per AGENTS.md step 7
 - Deploy URL: not yet deployed
