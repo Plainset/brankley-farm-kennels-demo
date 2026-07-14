@@ -378,6 +378,7 @@ section {
 }
 
 .section-head .eyebrow { color: var(--terracotta-deep); }
+.page-hero .section-head .eyebrow { color: var(--white); }
 
 /* ---------- Card grids ---------- */
 .card-grid {
